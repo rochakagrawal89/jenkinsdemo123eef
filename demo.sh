@@ -1,1 +1,1 @@
-echo "Whats's up"
+echo "how you doing?"
