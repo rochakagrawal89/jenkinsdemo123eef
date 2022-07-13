@@ -1,1 +1,1 @@
-echo "how you doing?,asasggwdfjero"
+echo "i have sucesfully integrated git with Jenkins"
