@@ -1,1 +1,1 @@
-echo "i have sucesfully integrated git with Jenkins"
+echo "I have done some changes and they should reflect in jenkins build"
